@@ -25,3 +25,8 @@ CodeStream provides an online compiler that supports multiple programming langua
 CodeStream's user interface is designed to be intuitive and user-friendly. It offers a smooth learning curve, making it easy for developers of all experience levels to adapt and collaborate seamlessly.
 
 
+# Screenshots
+
+![Login_Screen](1c.png)
+![User_Interface](2c.jpg)
+
